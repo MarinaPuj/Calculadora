@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="boton_uno">1</string>
+    <string name="boton_2">2</string>
+    <string name="boton_3">3</string>
+    <string name="boton_cuatro">4</string>
+    <string name="boton_cinco">5</string>
+    <string name="boton_seis">6</string>
+    <string name="boton_siete">7</string>
+    <string name="boton_ocho">8</string>
+    <string name="boton_nueve">9</string>
+    <string name="boton_cero">0</string>
+    <string name="boton_clear">CLEAR</string>
+    <string name="add">+</string>
+    <string name="substract">-</string>
+    <string name="multiply">x</string>
+    <string name="division">/</string>
+    <string name="equals">=</string>
+    <string name="sin">SIN</string>
+    <string name="cos">COS</string>
+    <string name="tan">TAN</string>
+</resources>
